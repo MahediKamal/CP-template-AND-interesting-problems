@@ -1,4 +1,4 @@
-# You're the color of my blood ( https://codeforces.com/gym/306738/problem/C )
+# You're the color of my blood (https://codeforces.com/gym/306738/problem/C)
 
 ## problem simplified:
 Given undirected graph. There are no self-loops or multiple edges between same vertex. </br>
@@ -7,7 +7,8 @@ We have to give direction for each edge in such a way that no adjacent edge has 
 
 ## observations
 - If there is a cycle with odd length, then It will not be possible to maintain the condition.(adjacent edge with reverse direction)
-- To check the odd cycle, and giving the direction we will use the ** bipartite graph theory ** ( https://www.geeksforgeeks.org/check-graphs-cycle-odd-length/ )
+- To check the odd cycle, and giving the direction we will use the **bipartite graph theory** (https://www.geeksforgeeks.org/check-graphs-cycle-odd-length/)
+- Main point is: we will try to colour all the edge in such a way that no adjacent edge has the same color.
 
 
 
