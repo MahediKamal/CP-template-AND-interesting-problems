@@ -1,4 +1,4 @@
-# You're the color of my blood (https://lightoj.com/problem/discovering-gold)
+# Discovering Gold (https://lightoj.com/problem/discovering-gold)
 
 ## problem simplified:
 Given a `1XN` grid, each cell contains some gold. In the beginning, you stand at position 1. You have a perfect 6 sided dice, if after throwing you get a result `x`, then you will go `x` cell ahead and collect gold in it. </br>
