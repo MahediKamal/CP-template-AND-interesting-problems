@@ -4,11 +4,12 @@
 The problem is litte bit tricky. Let's try to understand it by an example. But before that you must read the statement. <br>
 Let `N = 3`. Which means each cat will have 3 cats inside it. <br>
 And let, `number of working cat = 9`. Then of the problem like the image below. Where `red` one is the initial cat. The `red` cat has `3` `green` cat inside it. Then each `green` cat has `3` `orange` cat inside them. <br>
-It is given that heigt of the initail cat is `1`. So `orange` cat is of height `1`.
-![...](images/UVA107.1.PNG)</br>
+It is given that heigt of the initail cat is `1`. So `orange` cat is of height `1`. <br>
+<br>
+![...](../images/UVA107.1.PNG)</br>
 
 If you have any more confusion, you can look at this image below. This is a graph, and `h2` is the `initial cat` and `h0` are the `working cats`. <br>
-![...](images/UVA107.2.PNG)</br>
+![...](../images/UVA107.2.PNG)</br>
 
 From the question we can have an equation, that is 
             h = H / (N+1)
@@ -46,7 +47,7 @@ the cats’ heights.
 
 
 ## observations
-- You can't binary serach on integer in this case.
+- You can't binary serach on integer in this case,  you must use floating number.
 - If you give more time, you may find some O(n) solution of this problem. 
 
 
