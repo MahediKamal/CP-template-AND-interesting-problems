@@ -1,13 +1,13 @@
 # Keeping On Track [***Problem Link***](https://codeforces.com/gym/101673/attachments/download/6528/20172018-acmicpc-east-central-north-america-regional-contest-ecna-2017-en.pdf)
 
 ## Problem
-![..](../images/Keeping on track1.PNG) <br>
+![...](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/6e7afece24fd54238a7a0de6c37a4bd0e0ccf213/images/Keeping%20on%20track1.PNG) <br>
 
 ## problem simplified:
 Given a tree. First we have to find a vertex, such that, if we delete that vertex, number of **disconnected pairs** will be maximum. <br>
 Let, after deleting a vertex, three disconnected component of size `s1, s2, s3` is
 created. then `disconnected pairs = s1*s2 + s1*s3 + s2*s3` <br>
-Secondly we have to put a edge between any two vertex to minimize the number of **disconnected pairs**. <br>
+Secondly, we have to put an edge between any two vertex to minimize the number of **disconnected pairs**. <br>
 So, we have to find maximum disconnected pairs of vertex we can have have initially, and maximum disconnected pairs of vertex after putting an edge(this edge minimize the number of pairs).
 
 
