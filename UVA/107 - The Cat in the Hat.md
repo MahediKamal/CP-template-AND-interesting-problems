@@ -45,7 +45,7 @@ taking log in both side of the equation (a) and (b)  we have - <br>
 Now we can `binary search` on equation (c), to find the value of N, as `H` and `WC` is given. <br>
 Then we can find `m` using equation (a) or (b). <br>
 
-Now we have the height of the tree(m+1) and how mane child each node have(N). So we can easily fing the  
+Now we have the height of the tree(m+1) and how many child each node have(N). So we can easily find the  
 number of cats that are not doing any work (cats of height greater than one) and also  the sum of all
 the cats heights.
 
