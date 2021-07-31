@@ -3,7 +3,7 @@
 ## problem simplified:
 ![..](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/cbb5870630d744148e262b59dd0e08afae0db055/images/Airport%20Setup1.PNG) &nbsp;&nbsp;
 ![..](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/cbb5870630d744148e262b59dd0e08afae0db055/images/Airport%20Setup2.PNG) &nbsp;&nbsp;
-![..](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/cbb5870630d744148e262b59dd0e08afae0db055/images/Airport%20Setup1.PNG) 
+![..](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/cbb5870630d744148e262b59dd0e08afae0db055/images/Airport%20Setup3.PNG) 
 <br><br>
 
 First image shows the test case given in the problem. Here `green` nodes are the nodes which has airport. And
