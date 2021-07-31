@@ -1,14 +1,15 @@
 # 11377 Airport Setup [***Problem Link***](https://onlinejudge.org/external/113/11377.pdf)
 
 ## problem simplified:
-![..](../images/Airport Setup1.PNG) 
-![..](../images/Airport Setup2.PNG) 
-![..](.../images/Airport Setup2.PNG) 
+![..](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/cbb5870630d744148e262b59dd0e08afae0db055/images/Airport%20Setup1.PNG) &nbsp;&nbsp;
+![..](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/cbb5870630d744148e262b59dd0e08afae0db055/images/Airport%20Setup2.PNG) &nbsp;&nbsp;
+![..](https://github.com/MahediKamal/CP_template-AND-interesting_problems/blob/cbb5870630d744148e262b59dd0e08afae0db055/images/Airport%20Setup1.PNG) 
 <br><br>
 
-first image shows the test case given in the problem. Here green nodes are the nodes which has airport. And
+First image shows the test case given in the problem. Here `green` nodes are the nodes which has airport. And
 edges(red color) connect pairs of node(flights path between pairs). <br>
 In this problem we can create new airport(make white node into green), but can't create new flight path(new edge). <br>
+<br>
 Image-2 shows the path from 1 to 2, and it's cost is 0, as no white node are in the path. <br>
 Image-3 shows the path from 1 to 3, and it's cost in 2, as two white nodes are in the path <br>
 And form node 1 to 6, the is no path, so result is -1.  
