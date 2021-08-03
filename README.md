@@ -1,16 +1,16 @@
 ```
-
-						Hi I am MAHEDI KAMAL
-	I am a student of Computer Science And Engineering in Bangladesh
-	
+					    Hi I am MAHEDI KAMAL
+			I am a student of Computer Science And Engineering in Bangladesh
 	
 ```
 <br/>
 <br/>
 <br/>
+
 ## This blog contain problems solution of different online judges and templates for competative programming.
 			
 <br/>
+
 Different online judges are-
 - [Codeforces](https://codeforces.com/)
 - [UVA](https://onlinejudge.org/index.php)
