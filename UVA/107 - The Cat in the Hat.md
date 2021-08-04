@@ -1,4 +1,4 @@
-# 107 The Cat in the Hat (https://onlinejudge.org/external/1/107.pdf)
+# 107 The Cat in the Hat [***Problem Link***](https://onlinejudge.org/external/1/107.pdf)
 
 ## problem simplified:
 The problem is litte bit tricky. Let's try to understand it by an example. But before that you must read the statement. <br>
@@ -59,7 +59,9 @@ the cats heights.
 
 
 ## **Solution Code(C++)**
+
 ```C++
+
 #include <bits/stdc++.h>
 #define lli long long int
 using namespace std;
@@ -129,3 +131,5 @@ int main() {
     }
 
 }
+
+```
