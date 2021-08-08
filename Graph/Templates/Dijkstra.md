@@ -1,4 +1,16 @@
+## Dijkstra's Algorithm
+
+- single-source shortest paths algorithm
+- The weights of all edges are non-negative
+- The time complexity of this algorithm is  `O(V + E log V)`.
+
+### About this template
+- You have to pass the source and graph in the `Dijkstra` function.
+- Result wiil be found in the `dist` array.
+- `d` is a 2d matrix representing the graph, and final result will aslo be found here.
+
 ```C++
+
 struct node{
     int vrtx;
     int wght;
@@ -12,7 +24,7 @@ int vertxnum;
 int edgenum;
 
 int dist[100000];
-void Dijaxtra(int src,vector< pair<int,int> >graph[]){
+void Dijkstra(int src,vector< pair<int,int> >graph[]){
     bool visit[100000];
     for(int i=1;i<=vertxnum;i++){
         dist[i]=inf;
@@ -40,3 +52,5 @@ void Dijaxtra(int src,vector< pair<int,int> >graph[]){
         }
     }
 }
+
+```
