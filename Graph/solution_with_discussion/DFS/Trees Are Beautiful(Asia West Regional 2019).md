@@ -1,7 +1,7 @@
-# Trees Are Beautiful [***Problem Link***](https://algo.codemarshal.org/contests/icpc-dhaka-20-mock/problems/E)
+# Trees Are Beautiful [`Asia West Regional 2019`] [***Problem Link***](https://algo.codemarshal.org/contests/icpc-dhaka-20-mock/problems/E)
 
 ## Problem
-![...](../../../images/Trees Are Beautiful.PNG) <br>
+![...](../../../images/Trees%20Are%20Beautiful.PNG) <br>
 
 ## problem simplified:
 Given a weighted tree. A tree is said to be Beautiful if the summation of all pair distance of the vertices of the tree is `non-negative`. If the given tree is not beautiful then we have to make it beautiful. <br>
@@ -10,9 +10,10 @@ We have to print the `minimum` number of operation we need.
 
 ## observations
 - let define a word: `multiplication coefficient` of an egde = number of time an edge is used to conect some pair of node in the tree.  
-- If we increase the edge that has maximum multiplication coefficient, then it will be optimal.
-`multiplication coefficient` for each edge are written in the green color- <br>
-![...](../../../images/Trees Are Beautiful2.PNG) <br>
+- If we increase the edge that has maximum multiplication coefficient, then it will be optimal. <br>
+`multiplication coefficient` for each edge are written in the `green` color below- <br>
+![...](../../../images/Trees%20Are%20Beautiful2.PNG) <br>
+- If an edge has `l` node in one side and `r` node on the the other side, then `multiplication coefficient = l X r` 
 
 
 ## Solution Idea
