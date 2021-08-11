@@ -1,4 +1,4 @@
-## ## Finding bridges Algorithm (Offline solution) and Finding critical points
+## Finding bridges Algorithm (Offline solution) and Finding critical points
 - Given an undirected graph
 - To find all bridges and critical points in the given graph
 - The time complexity of this algorithm is  `O(V + E)`.
