@@ -8,7 +8,7 @@ In each step, a magician randomly removes any two balls from the bag. If the dra
 you have to determine the probability that the color of last ball remaining in the bag is black. </br>
 </br> </br>
 
-![...](../../../images/Playing%20With%Balls.PNG) 
+![...](../../../images/Playing%20With%20Balls.PNG) 
 
 ## observations
 - From the picture we can easily see that at a time two black ball is removed. We can't move `1` balck ball
