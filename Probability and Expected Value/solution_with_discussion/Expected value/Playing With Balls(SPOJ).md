@@ -7,7 +7,7 @@ In each step, a magician randomly removes any two balls from the bag. If the dra
 
 you have to determine the probability that the color of last ball remaining in the bag is black. </br>
 </br> </br>
-
+### 3 possible outcomes are: </br>
 ![...](../../../images/Playing%20With%20Balls.PNG) 
 
 ## observations
