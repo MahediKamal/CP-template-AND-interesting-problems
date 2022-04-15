@@ -1,7 +1,7 @@
 ## Disjoint Set Union(dsu)
 - Given an undirected graph
 - You can find connected componet using it
-- you can check if two node are connected(not necessarily rerectly)
+- you can check if two node are connected(not necessarily derectly)
 - `O(log n)` one average per union operation. So totally `O(n log n)`.
 
 ### About this template
